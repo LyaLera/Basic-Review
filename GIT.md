@@ -2,6 +2,7 @@
 
 ## Stage and Snapshot
 _git status_ - show modified files in working directory, staged for your next commit     
+**git status** - show modified files in working directory, staged for your next commit 
 **git add [file]** - add a file as it looks now to your next commit (stage)
 1. git reset [file] - unstage a file while retaining the changes in working directory
 + git diff - diff of what is changed but not staged          
