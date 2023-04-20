@@ -1,5 +1,5 @@
 
-# Git Cheat Sheet
+# GIT CHEAT SHEET
 
 ## Stage and Snapshot
 _git status_ - show modified files in working directory, staged for your next commit     
@@ -10,7 +10,7 @@ _git status_ - show modified files in working directory, staged for your next co
 `git diff --staged - diff of what is staged but not yet commited`
 - [ ] git commit -m “[descriptive message]” - commit your staged content as a new commit snapshot
 
-## BRANCH & MERGE 
+## Branch & Merge 
 
 Isolating work in branches, changing context, and integrating changes
    
