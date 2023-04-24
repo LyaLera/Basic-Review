@@ -86,8 +86,7 @@ The rendered output looks like this:
 
 My favorite search engine is Google.
 
- ************
- # MARKDOWN 
+
 - <font color = yellow>"#" Heading:</font> Create a heading (up to six levels) using a <font color = red>"#" </font>symbol followed by the text of the heading. The more "#" symbols you use, the smaller the heading.
 - <font color = yellow> ( * ) *italic*:</font> Create italic text by surrounding it with single asterisks<font color = red> (*) </font>.
 -  <font color = yellow>( ** )**bold**:</font> Create bold text by surrounding it with double asterisks <font color = red>(**)</font>.
@@ -97,5 +96,3 @@ My favorite search engine is Google.
 
 -  <font color = yellow>\-  List item:</font> Create a bulleted list by starting each item with a <font color = red>"-" </font>symbol.
 - <font color = yellow>\- 1. List item:</font> Create a numbered list by starting each item with a number followed by a period.
-***********************
-**********************+
