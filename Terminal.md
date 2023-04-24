@@ -1,6 +1,4 @@
-
-
-
+# Comand Line
 ## **Output**
 
 - [x] $ cat \<file> - output the contents of \<file>
@@ -38,8 +36,7 @@ delete a directory)_
 >__$ touch (file)__     
 >___Update__ file access & modification time (and create (file) if it doesn’t exist)_
 
-************+
-# Command Line
+
 - **cd**: Change directory. Use "cd" followed by the path to the directory you want to navigate to.
 - **ls**: List files and directories in the current directory.
 - **pwd**: Print the current working directory.
