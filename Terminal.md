@@ -1,5 +1,4 @@
-# Command Line
-
+# Comand Line
 ## **Output**
 
 - [x] $ cat \<file> - output the contents of \<file>
@@ -37,3 +36,19 @@ delete a directory)_
 >__$ touch (file)__     
 >___Update__ file access & modification time (and create (file) if it doesn’t exist)_
 
+
+- **cd**: Change directory. Use "cd" followed by the path to the directory you want to navigate to.
+- **ls**: List files and directories in the current directory.
+- **pwd**: Print the current working directory.
+- **mkdir**: Create a new directory. Use "mkdir" followed by the name of the new directory.
+- **touch**: Create a new file. Use "touch" followed by the name of the new file.
+- **rm**: Remove a file or directory. Use "rm" followed by the name of the file or directory you want to remove. Add the "-r" flag to remove a directory and its contents recursively.
+- **cp**: Copy a file or directory. Use "cp" followed by the name of the file or directory you want to copy, and the destination path.
+- **mv**: Move a file or directory. Use "mv" followed by the name of the file or directory you want to move, and the destination path.
+- **cat**: Print the contents of a file to the terminal.
+- **grep**: Search for a pattern in a file or set of files. Use "grep" followed by the pattern you want to search for, and the name of the file(s) you want to search.
+- **top**: Display information about running processes on your system, including CPU and memory usage.
+-**ps**: Display information about currently running processes.
+- **kill**: Terminate a running process. Use "kill" followed by the process ID (PID) of the process you want to terminate.
+- **chmod**: Change the permissions of a file or directory. Use "chmod" followed by the desired permissions and the name of the file or directory.
+- **sudo**: Run a command with administrative privileges.
