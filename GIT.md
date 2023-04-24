@@ -1,4 +1,3 @@
-
 # GIT CHEAT SHEET
 
 ## Stage and Snapshot
@@ -28,10 +27,6 @@ Isolating work in branches, changing context, and integrating changes
    
 >>>>__git log__
 - show all commits in the current branch’s history
-
-*****************
-
-# GIT CHEAT SHEET
 
 - **git init**: Initialize a local Git repository.
 
